@@ -15,7 +15,6 @@
    font-size: 13px;
    margin: 10px;
    color: #15301a;
-   
      
 }
 .photo-body{
@@ -60,6 +59,13 @@
 .img-holder.active h3{    
     opacity: 1 
 }
+
+footer {
+    color: '#ffff';
+background-color:'#335554';
+text-align:'center'
+}
+
 @media(max-width: 480px){
     .photo-body {
 width: 100vw
